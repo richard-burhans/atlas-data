@@ -1,0 +1,1 @@
+{"state": "MB", "currency": "CAD", "count": 14873, "params": {"brands": {}, "terpBreaks": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.42, 0.74, 1.05, 1.29, 1.5, 1.6, 1.7, 1.9, 2.1, 2.4, 2.5, 2.8, 3.0, 5.3], "weights": {"terp": 0.6, "cons": 0.4}, "gameAbove": [20, 25, 30], "impossible": 35}, "parts": 1}

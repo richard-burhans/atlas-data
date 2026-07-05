@@ -1,0 +1,1 @@
+{"state": "BC", "currency": "CAD", "count": 55485, "params": {"brands": {"Tribal": 0.611}, "terpBreaks": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.3, 0.5, 0.5, 0.6, 0.6, 0.6, 0.7, 0.7, 0.7, 0.7, 0.7, 1.09, 1.81, 7.95], "weights": {"terp": 0.6, "cons": 0.4}, "gameAbove": [20, 25, 30], "impossible": 35}, "parts": 1}

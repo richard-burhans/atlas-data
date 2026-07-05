@@ -1,0 +1,1 @@
+{"state": "LA", "currency": "USD", "count": 9337, "params": {"brands": {"Good Day Farm": 0.775, "Ayo": 0.524}, "terpBreaks": [0.33, 0.47, 0.56, 0.64, 0.69, 0.76, 0.88, 0.94, 1.05, 1.12, 1.26, 1.29, 1.36, 1.47, 1.57, 1.68, 1.84, 1.92, 2.05, 2.45, 12.22], "weights": {"terp": 0.6, "cons": 0.4}, "gameAbove": [20, 25, 30], "impossible": 35}, "parts": 1}

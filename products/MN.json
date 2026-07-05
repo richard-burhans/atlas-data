@@ -1,0 +1,1 @@
+{"state": "MN", "currency": "USD", "count": 2664, "params": {"brands": {}, "terpBreaks": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.45, 0.45, 0.95, 1.04, 1.26, 1.35, 1.47, 1.61, 1.67, 1.75, 1.95, 2.04, 2.19, 2.27, 2.29], "weights": {"terp": 0.6, "cons": 0.4}, "gameAbove": [20, 25, 30], "impossible": 35}, "parts": 1}

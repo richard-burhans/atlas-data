@@ -1,0 +1,1 @@
+{"state": "GA", "currency": "USD", "count": 109, "params": {"brands": {}, "terpBreaks": [0.49, 0.49, 0.49, 0.49, 0.49, 0.49, 0.49, 0.49, 0.49, 0.49, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4], "weights": {"terp": 0.6, "cons": 0.4}, "gameAbove": [20, 25, 30], "impossible": 35}, "parts": 1}

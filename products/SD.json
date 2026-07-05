@@ -1,0 +1,1 @@
+{"state": "SD", "currency": "USD", "count": 8521, "params": {"brands": {"Big Sioux Bud": 0.524, "Emerald Gardens Select": 0.882, "DNG": 0.947}, "terpBreaks": [0.1, 0.5, 0.58, 0.62, 0.65, 0.74, 0.81, 0.9, 0.91, 1.04, 1.12, 1.15, 1.29, 1.35, 1.47, 1.63, 1.78, 1.86, 2.34, 2.65, 4.2], "weights": {"terp": 0.6, "cons": 0.4}, "gameAbove": [20, 25, 30], "impossible": 35}, "parts": 1}

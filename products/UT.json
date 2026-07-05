@@ -1,0 +1,1 @@
+{"state": "UT", "currency": "USD", "count": 3749, "params": {"brands": {"WholesomeCo": 0.547, "Betty": 0.711, "Buzz": 0.558}, "terpBreaks": [0.13, 0.71, 0.877, 0.99, 1.05, 1.14, 1.21, 1.28, 1.33, 1.4, 1.46, 1.52, 1.6, 1.67, 1.72, 1.84, 2.01, 2.32, 8.757, 13.686, 21.718], "weights": {"terp": 0.6, "cons": 0.4}, "gameAbove": [20, 25, 30], "impossible": 35}, "parts": 1}
